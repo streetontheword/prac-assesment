@@ -1,0 +1,2 @@
+mongoimport -hlocalhost --port=27017 -dairbnb -clistings  data/listings.json
+
